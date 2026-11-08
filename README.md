@@ -10,10 +10,10 @@ Este repositório contém a documentação completa e os artefatos do desafio pr
 * [4. Criando as Wordlist](#4-criando-as-wordlists)
 * [5. Testando serviço FTP](#5-testando-serviço-ftp)
   * [5.1. Usando o Medusa no ftp](#51-usando-o-medusa-no-ftp)
-* [6. Ataques de Força Bruta em Formulários Web](#6---ataques-de-força-bruta-em-formulários-web)
+* [6. Ataques de Força Bruta em Formulários Web](#6-ataques-de-força-bruta-em-formulários-web)
   * [6.1. Preparado o Hydra para atacar formularios web](#61-Preparado-o-hydra-para-atacar-formularios-web)
-* [7. Ataque em cadeia: Enumeração SMB e Password Spraying](#7-ataque-em-cadeia:-enumeração-smb-e-password-spraying)
-  * [71-primeira-etapa:-enumeração](#71-Primeira Etapa: Enumeração)
+* [7. Ataque em cadeia: Enumeração SMB e Password Spraying](#7-ataque-em-cadeia-enumeração-smb-e-password-spraying)
+  * [7. 1-primeira-etapa:-enumeração](#71-primeira-etapa-enumeração)
 * [8. Conclusão](#8-conclusão)
 
 ---
